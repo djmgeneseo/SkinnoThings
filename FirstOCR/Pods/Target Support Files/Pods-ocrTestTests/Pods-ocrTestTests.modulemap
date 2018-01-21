@@ -1,0 +1,6 @@
+framework module Pods_ocrTestTests {
+  umbrella header "Pods-ocrTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
